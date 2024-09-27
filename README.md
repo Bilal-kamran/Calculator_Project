@@ -14,13 +14,6 @@ This project is currently in development. Features and functionality are subject
 ## Getting Started
 To get started with the project, clone the repository and compile the code using your preferred C compiler.
 
-```sh
-git clone https://github.com/Bilal-kamran/calculator-project.git
-cd calculator-project
-# Compile the code (example for GCC)
-gcc -o calculator main.c
-./calculator
-
 ## Contributing
 Contributions are welcome! Please fork the repository and submit pull requests for any improvements or new features.
 
@@ -28,3 +21,10 @@ Contributions are welcome! Please fork the repository and submit pull requests f
 For any questions or suggestions, feel free to open an issue or contact me directly through GitHub.
 
 Stay tuned for updates as the project progresses!
+
+```sh
+git clone https://github.com/Bilal-kamran/calculator-project.git
+cd calculator-project
+# Compile the code (example for GCC)
+gcc -o calculator main.c
+./calculator
