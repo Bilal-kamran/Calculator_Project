@@ -9,6 +9,12 @@
 #define EULER_CONST 2.718281828459045235
 #define NEWTON_ITERATIONS 20
 
+// Testing function prototype for testing input values of all the functions listed here:
+
+int TestFunctionValues(double value_X, double Value_Y);
+
+//Actual functions to be used in the Calculator
+
 double add_num(double x, double y);
 
 double subtract_num(double x, double y);
@@ -48,6 +54,10 @@ double tan(double x);
 
 //     return 0;
 // }
+
+int TestFunctionValues(double value_X, double Value_Y)
+{
+}
 
 double add_num(double x, double y)
 {
